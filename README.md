@@ -1,6 +1,6 @@
-# pedra-papel-tesoura-lagarto-spock
-Jogo feito no PyCharm usando referências da série Big Bang Theory
-Fiz esse jogo quando estava iniciando meus estudos de Python, então provavelmente há uma forma mais simples de faze-lo. Porém é s[o um desafio que eu me propus a fazer.
+# pedra-papel-tesoura-lagarto-spock;
+Jogo feito no PyCharm usando referências da série Big Bang Theory;
+Fiz esse jogo quando estava iniciando meus estudos de Python, então provavelmente há uma forma mais simples de faze-lo. Porém é só um desafio que eu me propus a fazer;
 O código que escrevi está logo abaixo.
 
 import random
